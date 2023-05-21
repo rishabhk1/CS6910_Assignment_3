@@ -15,17 +15,25 @@ To test attention based encoder decoder architecture
 ## **Classes and Functions**
 - Encoder class
     - forward 
+    - Perform encoder cell operation
     - init hidden
+    - To initialize hidden and cell tensors
 
 - Decoder class
     - forward 
+    - Perform decoder cell operation
     - init hidden
+    - To initialize hidden and cell tensors
 
 - Seq2Seq class
     - forward 
-- train function
+    - To connect encoder and decoder
+- train function 
+    - To train the model
 - train_accuracy function
+    - To calculate the accuracy on train data
 - accuracy function
+    - To calculate the accuracy on validation data
 
 
 | Name | Default Value | Description |
