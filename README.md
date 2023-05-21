@@ -1,5 +1,6 @@
 # CS6910_Assignment_3
 ### Rishabh Kawediya CS22M072
+[Report Link](https://wandb.ai/cs22m072/DLAssignment3/reports/CS6910-Assignment-3--Vmlldzo0NDE4ODYw?accessToken=od7cb5nl96oucpyc60k1hi8obagcp71pgm3613pcapvl2dv4cinau2w2ydcu8pa0) <br>
 Assignment3 contains code for all questions <br>
 ## **Packages**
 - wandb
