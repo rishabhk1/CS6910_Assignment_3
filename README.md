@@ -7,10 +7,10 @@ Assignment3 contains code for all questions <br>
 - pandas
 
 ## **train.py**
-To test vanilla encoder decoder architecture
+To evaluate vanilla encoder decoder architecture
 
 ## **train_a.py**
-To test attention based encoder decoder architecture
+To evaluate attention based encoder decoder architecture
 
 ## **Classes and Functions**
 - Encoder class
@@ -35,6 +35,14 @@ To test attention based encoder decoder architecture
 - accuracy function
     - To calculate the accuracy on validation data
 
+## **To evaluate**
+
+```
+python train.py --wandb_entity myname --wandb_project myprojectname
+```
+```
+python train_a.py --wandb_entity myname --wandb_project myprojectname
+```
 
 | Name | Default Value | Description |
 | :---: | :-------------: | :----------- |
